@@ -15,7 +15,7 @@ public class Working {
 		for (int i = 0;;) {
 
 			Scanner scanner = new Scanner(System.in);
-			System.out.println("Select from the options below : ");
+			System.out.println("Select from the options below: ");
 			System.out.println("\ta. Select food item");
 			System.out.println("\tb. Exit");
 			final String options = scanner.nextLine();

@@ -8,7 +8,7 @@ public class Main {
 			{ "Biscuits", "Rs.55" }, 
 			{ "Noodles", "Rs.45" }, 
 			{ "Cheese","Rs.120"},
-			{ "Doritos","Rs.150"},
+			{"Doritos","Rs.150"},
 			{ "Ketchup","Rs.250"},
 
 	};
